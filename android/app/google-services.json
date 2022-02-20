@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89856961927",
+    "project_id": "contacttracer-4eec0",
+    "storage_bucket": "contacttracer-4eec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89856961927:android:bf3d967bec88995031f722",
+        "android_client_info": {
+          "package_name": "com.example.contact_tracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89856961927-tj8m9kao0pb6e5oqrovco7ir5v359ha3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKzdg3EMx3y-0c8vWZzM4APwF3vLu5sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89856961927-tj8m9kao0pb6e5oqrovco7ir5v359ha3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
